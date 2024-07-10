@@ -13,9 +13,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MERN stack**
+ 🔭 I’m currently working on **Advanced Backend Projects**
  
- 🌱 I’m currently learning **Typescript, tailwind css**
+ 🌱 I’m currently learning **kubernetes**
 
  💬 Ask me about **MERN and development [here](https://github.com/Aayuslad)**
 
