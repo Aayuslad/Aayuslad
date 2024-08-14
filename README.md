@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **kubernetes**
 
- 💬 Ask me about **MERN and development [here](https://github.com/Aayuslad)**
+ 💬 Ask me about **Full stack and DevOps [here](https://github.com/Aayuslad)**
 
  📫 How to reach me **[aayushvlad@gmail.com](mailto:pedro.sales.aayushvlad@gmail.com)**
 
