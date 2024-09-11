@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Lad!;" />
 </h1>
 
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right" alt="Coding" width="300"/>
-
-
 <h3 align="center">A passionate web developer from India</h3>
 
 <br/>
@@ -44,7 +41,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,git,github,react,tailwind,nodejs,express,mongodb,mysql,typescript" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,javascript,typescript,git,github,react,nodejs,express,mongodb,postgresql,prisma,monorepo,redis,docker,openapi,aws" />
 </div>
 
 <br/>
